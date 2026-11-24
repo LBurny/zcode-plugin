@@ -1,0 +1,7 @@
+{
+  "name": "no-taskbar-dot",
+  "version": "0.1.0",
+  "description": "Turn off (or restore) the unread red dot that ZCode paints on its Windows taskbar icon.",
+  "author": { "name": "local" },
+  "commands": "./commands"
+}

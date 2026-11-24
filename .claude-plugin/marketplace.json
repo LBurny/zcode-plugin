@@ -1,0 +1,23 @@
+{
+  "name": "zcode-plugin",
+  "owner": {
+    "name": "LBurny",
+    "url": "https://github.com/LBurny"
+  },
+  "plugins": [
+    {
+      "name": "no-taskbar-dot",
+      "source": "./plugins/no-taskbar-dot",
+      "version": "0.1.0",
+      "description": "Turn off (or restore) the unread red dot that ZCode paints on its Windows taskbar icon.",
+      "displayName": "No Taskbar Dot",
+      "displayName_i18n": {
+        "zh-CN": "任务栏红点开关"
+      },
+      "description_i18n": {
+        "zh-CN": "把 ZCode 任务栏图标右下角的未读红点关掉，或随时恢复官方行为。"
+      },
+      "category": "utilities"
+    }
+  ]
+}
